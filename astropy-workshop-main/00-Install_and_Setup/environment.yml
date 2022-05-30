@@ -1,0 +1,36 @@
+name: astropy-env
+
+channels:
+  - astropy
+
+dependencies:
+  - pip
+  - python=3.9
+  - ipython>=7.2
+  - cython
+  - jupyter
+  - notebook>=6.0
+  - numpy>=1.16
+  - scipy>=1.5
+  - scikit-image>=0.17
+  - matplotlib>=3.2
+  - pandas>=1.0
+  - ccdproc
+  - pip:
+    - pytest
+    - beautifulsoup4
+    - keyring
+    - html5lib
+    - xlwt
+    - xlrd
+    - requests
+    - jupyterlab
+    - jupyter-offlinenotebook
+    - nbzip
+    - nbgitpuller
+    - "astropy>=5.0"
+    - asdf
+    - "gwcs>=0.16"
+    - "photutils>=1.3.0"
+    - "specutils>=1.1.1"
+    - astroquery
