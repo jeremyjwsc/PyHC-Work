@@ -12,3 +12,6 @@ Python Resources:
 
 YouTube live Streams:
 * https://youtube.com/playlist?list=PLDKhoNyHGTFZ345-lI-EeC4CAQhNUfUS0
+
+Python in Heliophysics Community (PyHC)
+* https://heliopython.org/
