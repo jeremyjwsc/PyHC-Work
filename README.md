@@ -9,9 +9,14 @@ The Python in Heliophysics Community (PyHC) is excited to announce its inaugural
 
 Python Resources:
 * https://heliopython.org/docs/python_resources/
+* https://heliopython.org/docs/suggested_tools/
 
 YouTube live Streams:
 * https://youtube.com/playlist?list=PLDKhoNyHGTFZ345-lI-EeC4CAQhNUfUS0
 
-Python in Heliophysics Community (PyHC)
+PyHC Website: 
 * https://heliopython.org/
+* https://github.com/heliophysicsPy/heliophysicsPy.github.io
+
+PyHC Projects:
+* https://heliopython.org/projects/
