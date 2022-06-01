@@ -4,7 +4,7 @@ The Python in Heliophysics Community (PyHC) is excited to announce its inaugural
 * Day 1 - PyHC Introduction + AstroPy for Heliophysics + SunPy
 * Day 2 - PlasmaPy + SpacePy
 * Day 3 - Solar-MACH + HAPI (with a touch of VirES)
-* Day 4 - pySPEDAS + pysat
+* Day 4 - PySPEDAS + Pysat
 * Day 5 - Kamodo + Additional PyHC Packages + Python Learning Session + Wrap Up
 
 Python Resources:
