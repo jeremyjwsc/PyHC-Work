@@ -1,0 +1,71 @@
+{
+    "references": [
+	"Stoneback, R. A. et al. (2018), PYSAT: Python Satellite Data Analysis Toolkit. Journal of Geophysical Research: Space Physics, 123, 5271– 5283. https://doi.org/10.1029/2018JA025297"
+    ],
+    "keywords": [
+	"pysat",
+	"ionosphere",
+	"atmosphere",
+	"thermosphere",
+	"magnetosphere",
+	"heliosphere",
+	"observations",
+	"models",
+	"space",
+	"satellites",
+	"analysis"
+    ],
+    "creators": [
+      {
+        "affiliation": "The University of Texas at Dallas",
+        "name": "Stoneback, Russell",
+        "orcid": "0000-0001-7216-4336"
+      },
+      {
+        "affiliation": "Goddard Space Flight Center",
+        "name": "Klenzing, Jeff",
+        "orcid": "0000-0001-8321-6074"
+      },
+      {
+        "affiliation": "U.S. Naval Research Laboratory",
+        "name": "Burrell, Angeline G.",
+        "orcid": "0000-0001-8875-9326"
+      },
+      {
+        "affiliation": "Predictive Science",
+        "name": "Pembroke, Asher"
+      },
+      {
+        "name": "Spence, Carey",
+        "orcid": "0000-0001-8340-5625"
+      },
+
+      {
+        "affiliation": "The University of Texas at Dallas",
+        "name": "Depew, Matthew"
+      },
+      {
+        "affiliation": "Catholic University of America, Goddard Space Flight Center",
+        "name": "Smith, Jonathon M.",
+        "orcid": "0000-0002-8191-4765"
+      },
+      {
+        "affiliation": "The University of Texas at Dallas",
+        "name": "Fuller, Ryan"
+      },
+      {
+        "name": "Von Bose, Veronica"
+      },
+      {
+        "name": "Hargrave, Nathaniel"
+      },
+      {
+        "name": "Iyer, Gayatri"
+      },
+      {
+        "affiliation": "@olist",
+        "name": "Leite, Silvio",
+        "orcid": "0000-0003-1707-7963"
+      }
+    ]
+}

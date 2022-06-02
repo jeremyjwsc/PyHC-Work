@@ -1,0 +1,10 @@
+dask
+# netCDF 1.5.7 released after RC pull started.
+netCDF4<1.5.7
+numpy>=1.12
+pandas
+portalocker
+pytest
+scipy
+toolz
+xarray
